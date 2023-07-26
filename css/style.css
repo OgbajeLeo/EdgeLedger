@@ -66,7 +66,6 @@ p {
 .lead {
     font-size: 1.3rem;
     margin-bottom: 2rem;
-    transition: all 1s ease-in-out;
 }
 
 .py-1 {
@@ -100,7 +99,6 @@ p {
     padding: 0.5rem 2rem;
     border: none;
     border-radius: 5px;
-    transform: rotate3d(230deg);
 }
 
 .btn:hover {
@@ -179,6 +177,7 @@ p {
 #what .items {
     display: flex;
     padding: 1rem;
+    border:1px solid #b4b4b4
 }
 
 #what .items .item {
