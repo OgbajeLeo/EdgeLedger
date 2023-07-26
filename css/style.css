@@ -177,13 +177,14 @@ p {
 #what .items {
     display: flex;
     padding: 1rem;
-    border:1px solid #b4b4b4
+   
 }
 
 #what .items .item {
     flex: 1;
     text-align: center;
     padding: 1rem;
+    border:1px solid #f3f3f3;
 }
 
 #what .items .item i {
